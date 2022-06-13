@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="produto">produto</string>
+    <string name="categoria">categoria</string>
+    <string name="setor">setor</string>
+</resources>
